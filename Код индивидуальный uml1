@@ -1,0 +1,11 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Организаторы" as P {
+ Ресурсами концерт проведение мероприятия (гости, летом)
+}
+hide circle
+@enduml
