@@ -3,4 +3,4 @@
 
 [Диаграмма клакссов](https://github.com/rf3d/kossov.github.io/blob/master/JSwz2i8m5CNnkVSf3fqKV8VRZyb1xEPyIO8DJHEvjyL1V7S3NLmFF_wSpZRHRLyJsHBpIrHMk2Hc-50pY5kUMlRinvAAuZ77BL3JgvRtiGofaWgB-g3_qvUEIZjn2p5CjOSRqvtHCqvNlc3aSsLpz04kgak1kf1zlV83.png)
 
-[Диаграмма классов 2]()
+[Диаграмма классов 2](https://github.com/rf3d/kossov.github.io/blob/master/%D1%83%D0%BC%D0%BB2.png)
