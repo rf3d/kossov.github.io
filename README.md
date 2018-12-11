@@ -55,7 +55,25 @@
 
 ### Разработка диаграмм в RAMUS
 * Контекстная диаграмма А0 - "Просмотр статистики профиля Instagram"
+
 ![](https://github.com/rf3d/kossov.github.io/blob/master/11.PNG)
+
+* Декомпозиция диаграммы уровня А0 (А1-А3) на три блока
+
+![](https://github.com/rf3d/kossov.github.io/blob/master/2.PNG)
+
+* Декомпозиция блока А1 "Авторизация в Instagram"
+
+![](https://github.com/rf3d/kossov.github.io/blob/master/3.PNG)
+
+* Декомпозиция блока А2 "Сбор и обработка данных профиля"
+
+![](https://github.com/rf3d/kossov.github.io/blob/master/4.PNG)
+
+* Декомпозиция блока А3 "Просмотр данных"
+
+![](https://github.com/rf3d/kossov.github.io/blob/master/5.PNG)
+
 
 
 
