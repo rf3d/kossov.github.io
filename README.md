@@ -70,9 +70,13 @@
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/4.jpg)
 
-* Декомпозиция блока А3 "Просмотр данных"
+* Декомпозиция блока А21 "Ввод имени профиля"
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/5.jpg)
+
+* Декомпозиция блока А3 "Просмотр данных"
+
+![](https://github.com/rf3d/kossov.github.io/blob/master/6.jpg)
 
 
 
