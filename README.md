@@ -143,5 +143,5 @@
 
 </details>
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/count
+![](https://github.com/rf3d/kossov.github.io/blob/master/count.PNG)
 
