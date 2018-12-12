@@ -100,15 +100,15 @@
 * Завершение идентификации всех потоков
 * Построение ERD (диаграммы классов без атрибутов) для всех потоков
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/umlstreams.PNG)
+![](https://github.com/rf3d/kossov.github.io/blob/master/umlstreams.png)
 
 * Завершение идентификации всех ролей
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/umlroles.PNG)
+![](https://github.com/rf3d/kossov.github.io/blob/master/umlroles.png)
 
 * Завершение идентификации всех модулей
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/umlmod.PNG)
+![](https://github.com/rf3d/kossov.github.io/blob/master/umlmod.png)
 
