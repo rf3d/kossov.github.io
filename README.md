@@ -99,7 +99,7 @@
 Приложение будет разрабатываться в среде разработки (IDE) Xcode с использованием языков программирования Swift и Objective-C
 * Определение допустимых видов хранилищ и их размещения: 
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/memory.png)
+![](https://github.com/rf3d/kossov.github.io/blob/master/memory.PNG)
 
 
 * Завершение идентификации всех потоков
