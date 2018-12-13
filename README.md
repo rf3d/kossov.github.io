@@ -105,7 +105,7 @@
 #### Завершение идентификации всех потоков
 * Построение ERD (диаграммы классов без атрибутов) для всех потоков
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/umlstreams.png)
+![](https://github.com/rf3d/kossov.github.io/blob/master/umls.png)
 
 [Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
 
