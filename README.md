@@ -107,6 +107,7 @@
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/umlstreams.png)
 
+
 #### Завершение идентификации всех ролей
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей
 
@@ -146,5 +147,41 @@
 ![](https://github.com/rf3d/kossov.github.io/blob/master/count.PNG)
 
 * определение числа и сложности функциональных точек для модулей: 9 модулей (4 экранные формы, 5 модулей обработки)
+
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity
+class Person
+class Organization
+class Property
+class Activity
+class Document
+class Student
+class Teacher
+class Assign
+class Perform
+class Check
+class Computer
+class Pencil
+Entity <|-- Person
+Entity <|-- Organization
+Entity <|-- Property
+Entity <|-- Activity
+Entity <|-- Document
+Person <|-- Student
+Person <|-- Teacher
+Activity <|-- Assign
+Activity <|-- Perform
+Activity <|-- Check
+Property <|-- Computer
+Property <|-- Pencil
+hide members
+hide circle
+hide methods
+@enduml
 
 
