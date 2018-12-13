@@ -67,7 +67,7 @@
 
 * Декомпозиция диаграммы уровня А0 (А1-А3) на три блока
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/2.jpg)
+![](https://github.com/rf3d/kossov.github.io/blob/master/02_A0.png)
 
 * Декомпозиция блока А1 "Авторизация в Instagram"
 
@@ -75,7 +75,7 @@
 
 * Декомпозиция блока А2 "Сбор и обработка данных профиля"
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/4.jpg)
+![](https://github.com/rf3d/kossov.github.io/blob/master/04_A2.png)
 
 * Декомпозиция блока А21 "Ввод имени профиля"
 
