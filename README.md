@@ -107,6 +107,8 @@
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/umlstreams.png)
 
+[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
+
 
 #### Завершение идентификации всех ролей
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей
@@ -148,7 +150,7 @@
 
 * определение числа и сложности функциональных точек для модулей: 9 модулей (4 экранные формы, 5 модулей обработки)
 
-![blah](http://www.plantuml.com/plantuml/proxy?
-idx=0&src=https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
+![](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
+[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
 
 
