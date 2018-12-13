@@ -107,7 +107,7 @@
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/umls.png)
 
-[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/streams.txt)
+[Код PlantUML](https://github.com/rf3d/kossov.github.io/blob/master/streams.txt)
 
 
 #### Завершение идентификации всех ролей
@@ -115,14 +115,14 @@
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/umlr.png)
 
-[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/roles.txt)
+[Код PlantUML](https://github.com/rf3d/kossov.github.io/blob/master/roles.txt)
 
 #### Завершение идентификации всех модулей
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей
 
 ![](https://github.com/rf3d/kossov.github.io/blob/master/umlm.png)
 
-[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/modules.txt)
+[Код PlantUML](https://github.com/rf3d/kossov.github.io/blob/master/modules.txt)
 
 #### Диаграмма последовательностей
 
