@@ -113,7 +113,8 @@
 #### Завершение идентификации всех ролей
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/umlroles.png)
+![](https://github.com/rf3d/kossov.github.io/blob/master/umlr.png)
+[Код PlantUML](https://raw.githubusercontent.com/rf3d/kossov.github.io/master/roles.txt)
 
 #### Завершение идентификации всех модулей
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей
