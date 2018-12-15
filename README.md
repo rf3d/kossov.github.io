@@ -83,7 +83,7 @@
 
 * Декомпозиция блока А22 "Сбор данных профиля"
 
-![](https://github.com/rf3d/kossov.github.io/blob/master/06_A22.png)
+![](https://github.com/rf3d/kossov.github.io/blob/master/15122018.png)
 
 * Декомпозиция блока А23 "Обработка метрик"
 
@@ -147,7 +147,7 @@
 
 ### Текстовая часть работы
 
-[PDF-файл](https://github.com/rf3d/kossov.github.io/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%D0%93%D0%98%D0%A2%D0%A5%D0%90%D0%912%D0%98%D1%81%D0%BF%D1%802.pdf)
+[PDF-файл](https://github.com/rf3d/kossov.github.io/blob/master/%D0%A2%D0%B5%D0%BA%D1%81%D1%822.pdf)
 
 
 
